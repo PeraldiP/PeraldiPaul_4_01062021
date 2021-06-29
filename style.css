@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color:#FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -936,7 +936,7 @@ h4 {
     }
     .dropdown .dropdown a .caret {
         float: none;
-        margin: 5px 0 0 10px!important;
+        tcargin: 5px 0 0 10px!important;
         border: 4px solid black;
         border-bottom-color: transparent;
         border-right-color: transparent;
@@ -1039,4 +1039,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+#lien-center{
+    width: 490px;
+    justify-content: center;
 }
